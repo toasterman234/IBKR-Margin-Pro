@@ -1,0 +1,1 @@
+{ "name": "ibkr-margin-tracker-pro", "version": "1.0.0", "scripts": { "start": "react-scripts start", "test": "jest" } }
